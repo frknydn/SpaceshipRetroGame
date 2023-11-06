@@ -1,0 +1,59 @@
+C:\Users\Tanju\Desktop\SAOyun2023\SAOyun2023\bin\Debug\SAOyun2023.exe
+C:\Users\Tanju\Desktop\SAOyun2023\SAOyun2023\bin\Debug\SAOyun2023.pdb
+C:\Users\Tanju\Desktop\SAOyun2023\SAOyun2023\obj\x86\Debug\SAOyun2023.Properties.Resources.resources
+C:\Users\Tanju\Desktop\SAOyun2023\SAOyun2023\obj\x86\Debug\SAOyun2023.csproj.GenerateResource.Cache
+C:\Users\Tanju\Desktop\SAOyun2023\SAOyun2023\obj\x86\Debug\SAOyun2023.exe
+C:\Users\Tanju\Desktop\SAOyun2023\SAOyun2023\obj\x86\Debug\SAOyun2023.pdb
+C:\Users\Tanju\Desktop\SAOyun2023\SAOyun2023\obj\x86\Debug\SAOyun2023.csprojResolveAssemblyReference.cache
+C:\Users\Tanju\Desktop\SAOyun2023_ 1\SAOyun2023\obj\x86\Debug\SAOyun2023.exe
+C:\Users\Tanju\Desktop\SAOyun2023_ 1\SAOyun2023\obj\x86\Debug\SAOyun2023.pdb
+C:\Users\Tanju\Desktop\SAOyun2023_ 1\SAOyun2023\bin\Debug\SAOyun2023.exe
+C:\Users\Tanju\Desktop\SAOyun2023_ 1\SAOyun2023\bin\Debug\SAOyun2023.pdb
+C:\Users\Tanju\Desktop\SAOyun2023_ 1\SAOyun2023\obj\x86\Debug\SAOyun2023.csprojResolveAssemblyReference.cache
+C:\Users\Tanju\Desktop\SAOyun2023_ 1\SAOyun2023\obj\x86\Debug\SAOyun2023.Properties.Resources.resources
+C:\Users\Tanju\Desktop\SAOyun2023_ 1\SAOyun2023\obj\x86\Debug\SAOyun2023.csproj.GenerateResource.Cache
+C:\Users\Tanju\Desktop\02. SAOyun2023\SAOyun2023\obj\x86\Debug\SAOyun2023.exe
+C:\Users\Tanju\Desktop\02. SAOyun2023\SAOyun2023\obj\x86\Debug\SAOyun2023.pdb
+C:\Users\Tanju\Desktop\02. SAOyun2023\SAOyun2023\bin\Debug\SAOyun2023.exe
+C:\Users\Tanju\Desktop\02. SAOyun2023\SAOyun2023\bin\Debug\SAOyun2023.pdb
+C:\Users\Tanju\Desktop\02. SAOyun2023\SAOyun2023\obj\x86\Debug\SAOyun2023.csprojResolveAssemblyReference.cache
+C:\Users\Tanju\Desktop\02. SAOyun2023\SAOyun2023\obj\x86\Debug\SAOyun2023.Properties.Resources.resources
+C:\Users\Tanju\Desktop\02. SAOyun2023\SAOyun2023\obj\x86\Debug\SAOyun2023.csproj.GenerateResource.Cache
+C:\Users\Tanju\Desktop\04. SAOyun2023\SAOyun2023\obj\x86\Debug\SAOyun2023.exe
+C:\Users\Tanju\Desktop\04. SAOyun2023\SAOyun2023\obj\x86\Debug\SAOyun2023.pdb
+C:\Users\Tanju\Desktop\04. SAOyun2023\SAOyun2023\bin\Debug\SAOyun2023.exe
+C:\Users\Tanju\Desktop\04. SAOyun2023\SAOyun2023\bin\Debug\SAOyun2023.pdb
+C:\Users\Tanju\Desktop\04. SAOyun2023\SAOyun2023\obj\x86\Debug\SAOyun2023.csprojResolveAssemblyReference.cache
+C:\Users\Tanju\Desktop\04. SAOyun2023\SAOyun2023\obj\x86\Debug\SAOyun2023.Properties.Resources.resources
+C:\Users\Tanju\Desktop\04. SAOyun2023\SAOyun2023\obj\x86\Debug\SAOyun2023.csproj.GenerateResource.Cache
+C:\Users\Tanju\Desktop\05. SAOyun2023\SAOyun2023\obj\x86\Debug\SAOyun2023.exe
+C:\Users\Tanju\Desktop\05. SAOyun2023\SAOyun2023\obj\x86\Debug\SAOyun2023.pdb
+C:\Users\Tanju\Desktop\05. SAOyun2023\SAOyun2023\bin\Debug\SAOyun2023.exe
+C:\Users\Tanju\Desktop\05. SAOyun2023\SAOyun2023\bin\Debug\SAOyun2023.pdb
+C:\Users\Tanju\Desktop\05. SAOyun2023\SAOyun2023\obj\x86\Debug\SAOyun2023.csprojResolveAssemblyReference.cache
+C:\Users\Tanju\Desktop\05. SAOyun2023\SAOyun2023\obj\x86\Debug\SAOyun2023.Properties.Resources.resources
+C:\Users\Tanju\Desktop\05. SAOyun2023\SAOyun2023\obj\x86\Debug\SAOyun2023.csproj.GenerateResource.Cache
+C:\Users\Tanju\Desktop\06. SAOyun2023\SAOyun2023\obj\x86\Debug\SAOyun2023.exe
+C:\Users\Tanju\Desktop\06. SAOyun2023\SAOyun2023\obj\x86\Debug\SAOyun2023.pdb
+C:\Users\Tanju\Desktop\06. SAOyun2023\SAOyun2023\bin\Debug\SAOyun2023.exe
+C:\Users\Tanju\Desktop\06. SAOyun2023\SAOyun2023\bin\Debug\SAOyun2023.pdb
+C:\Users\Tanju\Desktop\06. SAOyun2023\SAOyun2023\obj\x86\Debug\SAOyun2023.csprojResolveAssemblyReference.cache
+C:\Users\Tanju\Desktop\06. SAOyun2023\SAOyun2023\obj\x86\Debug\SAOyun2023.Properties.Resources.resources
+C:\Users\Tanju\Desktop\06. SAOyun2023\SAOyun2023\obj\x86\Debug\SAOyun2023.csproj.GenerateResource.Cache
+C:\Users\Tanju\Desktop\07. SAOyun2023\SAOyun2023\obj\x86\Debug\SAOyun2023.exe
+C:\Users\Tanju\Desktop\07. SAOyun2023\SAOyun2023\obj\x86\Debug\SAOyun2023.pdb
+C:\Users\Tanju\Desktop\07. SAOyun2023\SAOyun2023\obj\x86\Debug\SAOyun2023.csprojResolveAssemblyReference.cache
+C:\Users\Tanju\Desktop\07. SAOyun2023\SAOyun2023\obj\x86\Debug\SAOyun2023.Properties.Resources.resources
+C:\Users\Tanju\Desktop\07. SAOyun2023\SAOyun2023\obj\x86\Debug\SAOyun2023.csproj.GenerateResource.Cache
+C:\Users\Tanju\Desktop\07. SAOyun2023\SAOyun2023\bin\Debug\SAOyun2023.exe
+C:\Users\Tanju\Desktop\07. SAOyun2023\SAOyun2023\bin\Debug\SAOyun2023.pdb
+E:\Ders Notu 4.Dönem\1\07. SAOyun2023\SAOyun2023\bin\Debug\SAOyun2023.exe.config
+E:\Ders Notu 4.Dönem\1\07. SAOyun2023\SAOyun2023\bin\Debug\SAOyun2023.exe
+E:\Ders Notu 4.Dönem\1\07. SAOyun2023\SAOyun2023\bin\Debug\SAOyun2023.pdb
+E:\Ders Notu 4.Dönem\1\07. SAOyun2023\SAOyun2023\obj\x86\Debug\SAOyun2023.csproj.AssemblyReference.cache
+E:\Ders Notu 4.Dönem\1\07. SAOyun2023\SAOyun2023\obj\x86\Debug\SAOyun2023.Properties.Resources.resources
+E:\Ders Notu 4.Dönem\1\07. SAOyun2023\SAOyun2023\obj\x86\Debug\SAOyun2023.csproj.GenerateResource.cache
+E:\Ders Notu 4.Dönem\1\07. SAOyun2023\SAOyun2023\obj\x86\Debug\SAOyun2023.csproj.CoreCompileInputs.cache
+E:\Ders Notu 4.Dönem\1\07. SAOyun2023\SAOyun2023\obj\x86\Debug\SAOyun2023.csproj.CopyComplete
+E:\Ders Notu 4.Dönem\1\07. SAOyun2023\SAOyun2023\obj\x86\Debug\SAOyun2023.exe
+E:\Ders Notu 4.Dönem\1\07. SAOyun2023\SAOyun2023\obj\x86\Debug\SAOyun2023.pdb
